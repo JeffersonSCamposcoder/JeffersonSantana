@@ -1,4 +1,4 @@
-## Hi, I'm Jefferson Santana (🙂he/his), tech aspirant / java developer!
+## Hi, I'm Jefferson Santana (🙂he/his), java developer!
 
 - 📚 I currently participate in the Capgemini Academy Java;
 - 🌱 Studying java / js / angular / spring / docker among other technologies;
