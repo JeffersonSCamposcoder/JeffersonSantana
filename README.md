@@ -1,9 +1,9 @@
-## Hi, I'm Jefferson Santana, tech aspirant!
+## Hi, I'm Jefferson Santana (🙂he/his), tech aspirant / java developer!
 
 - 📚 I currently participate in the Capgemini Academy Java;
 - 🌱 Studying java / js / angular / spring / docker among other technologies;
 - 👩‍💻🎓 Attending the 4th module of Systems Analysis and Development;
-- 😃 Pronouns: he/his;
+
 
 <div align="center">
     <a href="https://github.com/JeffersonSCamposcoder">
@@ -29,7 +29,7 @@
  
 <div> 
    <a href="https://www.linkedin.com/in/jeffersoncsantana/a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://mail.google.com/mail/u/jeffcurtbnu@gmail.com " target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://umzap.com/8I6gJinBZtytNlWqLblQIQ1V6WBZtWOXYnTtbQLznHBNzqLRxr" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 
 
