@@ -1,8 +1,9 @@
 ## Hi, I'm Jefferson Santana (🙂he/his), java developer!
 
+- 👩‍💻 Custom Solutions Analyst II at Capgemini
 - 📚 I currently participate in the Capgemini Academy Java;
 - 🌱 Studying java / js / angular / spring / docker among other technologies;
-- 👩‍💻🎓 Attending the 4th module of Systems Analysis and Development;
+- 💻🎓 Attending the 4th module of Systems Analysis and Development;
 
 
 <div align="center">
