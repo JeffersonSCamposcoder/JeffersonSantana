@@ -1,8 +1,9 @@
-## Oi eu sou o Jefferson Santana, aspirante na área de tecnologia!
-- 📚 Atualmente participo da  Capgemini Academy Java;
-- 🌱 Estudando java / js / angular / spring / docker entre outras tecnologias;
-- 👩‍💻🎓 Cursando 4º módulo de Análise e Desenvolvimento de Sistemas;
-- 😃 Pronomes: ele/dele;
+## Hi, I'm Jefferson Santana, tech aspirant!
+
+- 📚 I currently participate in the Capgemini Academy Java;
+- 🌱 Studying java / js / angular / spring / docker among other technologies;
+- 👩‍💻🎓 Attending the 4th module of Systems Analysis and Development;
+- 😃 Pronouns: he/his;
 
 <div align="center">
     <a href="https://github.com/JeffersonSCamposcoder">
